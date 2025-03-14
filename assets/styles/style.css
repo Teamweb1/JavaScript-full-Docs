@@ -3,3 +3,14 @@
     background-color: blue;
     text-align: center;
 }
+
+
+
+.text{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    padding: 20px 100px ;
+}
